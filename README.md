@@ -5,4 +5,4 @@ This Repository will hold concepts and ideas that have amazed all through the ye
 
 From **Coding Languages, Decision Theory, Game Theory, to Core Management Engineering Concepts, to Real Life Applications** of all these.
 
-Join me in the Adventure as I change the way we see things, one Small Concept at a Time.
+Join me in the Adventure as I change the way we see things, one small concept at a Time.
