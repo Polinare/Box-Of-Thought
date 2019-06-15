@@ -1,9 +1,14 @@
 This file is intended for avid readers of an Ideal State of Nature.
 
 Aspects of Life that can be defined in the Area of Ideal:
-  Social Classes Structure
-  Economic Standing of the Country
-  Access to Privileges and Healthcare Needs
-  State of Education Quality
-  International Relations
+      
+     1. Social Classes Structure
+      
+     2. Economic Standing of the Country
+      
+     3. Access to Privileges and Healthcare Needs
+      
+     4. State of Education Quality
+      
+     5. International Relations
 
